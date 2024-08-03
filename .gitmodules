@@ -1,0 +1,4 @@
+[submodule "addons_oficinas_y_papeles"]
+	path = addons_oficinas_y_papeles
+	url = git@github.com:codlan-labs/addons_saguapac_oficinas_y_papeles.git
+	branch = master
