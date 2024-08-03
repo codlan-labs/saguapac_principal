@@ -2,3 +2,7 @@
 	path = addons_oficinas_y_papeles
 	url = git@github.com:codlan-labs/addons_saguapac_oficinas_y_papeles.git
 	branch = master
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 17.0
